@@ -1,0 +1,5 @@
+order_channel,customer_count,total_online_spend,total_offline_spend,avg_online_spend,avg_offline_spend
+Android App,9495,5448900.55,2370162.21,573.87,249.62
+Mobile,4882,1828428.97,1199754.19,374.52,245.75
+Ios App,2833,1772300.55,753699.38,625.59,266.04
+Desktop,2735,869451.04,740870.42,317.9,270.88
